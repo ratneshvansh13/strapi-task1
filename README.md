@@ -10,21 +10,19 @@ cd my-project
 npm install
 
 ```
-
-### `start`
-
-
-```
-npm run develop
-
-```
-
 ### `build`
 
 ```
 npm run build
 
 ```
+### `start`
+
+```
+npm run develop
+
+```
+
 ### `Live Link`
 ```
 Open http://localhost:1337/admin
