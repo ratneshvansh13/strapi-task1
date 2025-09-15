@@ -1,32 +1,37 @@
-# 🚀 Getting started with Strapi
-
-### `develop`
-
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
+🚀 Strapi Setup & Documentation Guide
+1. Clone the Strapi Repository
+git clone https://github.com/strapi/strapi.git
+```
+cd my-project
+```
+### `Install Dependencies`
 
 ```
-npm run develop
-# or
-yarn develop
+npm install
+
 ```
 
 ### `start`
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-start)
 
 ```
-npm run start
-# or
-yarn start
+npm run develop
+
 ```
 
 ### `build`
 
-Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
-
 ```
 npm run build
-# or
-yarn build
+
 ```
+### `Live Link`
+```
+Open http://localhost:1337/admin
+```
+### `Register the first Admin user
+
+You’ll now have access to the Strapi dashboard `
+
+### `Create a Sample Content Type`
 
