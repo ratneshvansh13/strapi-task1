@@ -2,7 +2,7 @@ name: ratnesh-vansh
 
 on:
   push:
-    branches: [main]
+    branches: [vansh]
 jobs:
   demo:
     runs-on: ubuntu-latest
